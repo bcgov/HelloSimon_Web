@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "HelloSimon_Web/1.0.0": {
+      "HelloSimon_web/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Server.Kestrel": "1.0.0"
         },
         "runtime": {
-          "HelloSimon_Web.dll": {}
+          "HelloSimon_web.dll": {}
         }
       },
       "Microsoft.AspNetCore.Hosting/1.0.0": {
@@ -235,7 +235,7 @@
     }
   },
   "libraries": {
-    "HelloSimon_Web/1.0.0": {
+    "HelloSimon_web/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

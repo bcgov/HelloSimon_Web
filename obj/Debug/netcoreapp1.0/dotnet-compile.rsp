@@ -1,5 +1,5 @@
---temp-output:H:\Coding\HelloSimon_Web\obj\Debug\netcoreapp1.0\
---out:H:\Coding\HelloSimon_Web\bin\Debug\netcoreapp1.0\HelloSimon_Web.dll
+--temp-output:c:\Coding\HelloSimon_OpenShift\HelloSimon_web\obj\Debug\netcoreapp1.0\
+--out:c:\Coding\HelloSimon_OpenShift\HelloSimon_web\bin\Debug\netcoreapp1.0\HelloSimon_web.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:HelloSimon_Web
+--output-name:HelloSimon_web
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -116,5 +116,5 @@
 --reference:C:\Users\sdi\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\sdi\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\sdi\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-H:\Coding\HelloSimon_Web\Program.cs
-H:\Coding\HelloSimon_Web\Startup.cs
+c:\Coding\HelloSimon_OpenShift\HelloSimon_web\Program.cs
+c:\Coding\HelloSimon_OpenShift\HelloSimon_web\Startup.cs
